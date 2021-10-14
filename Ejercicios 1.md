@@ -36,13 +36,13 @@ Alto nivel. C++, Java
 
 ¿Qué paradigma de programación siguen los siguientes lenguajes?
 
-C Imperativos Estructurados
-C++ Imperativos multiparadigma
-SQL Declarativos Algebraicos
-Java Imperativos Orientado a objetos
-Javascript Imperativos multiparadigma
-Lisp Declarativos Funcionales
-Prolog Declarativos Lógicos
+C - Imperativos Estructurados
+C++ - Imperativos multiparadigma
+SQL - Declarativos Algebraicos
+Java - Imperativos Orientado a objetos
+Javascript - Imperativos multiparadigma
+Lisp - Declarativos Funcionales
+Prolog - Declarativos Lógicos
 
 Puedes consultar el siguiente enlace:
 
@@ -50,11 +50,11 @@ https://es.wikipedia.org/wiki/Paradigma_de_programaci%C3%B3n
 
 Explica qué criterios pueden seguir a la hora de elegir un lenguaje de programación para el desarrollo software.
 
-Campo de aplicación
-Experiencia previa
-Herramientas de desarrollo
-Documentación disponible
-Base de usuarios
-Reusabilidad
-Portabilidad
-Imposición del cliente
+-Campo de aplicación
+-Experiencia previa
+-Herramientas de desarrollo
+-Documentación disponible
+-Base de usuarios
+-Reusabilidad
+-Portabilidad
+-Imposición del cliente
