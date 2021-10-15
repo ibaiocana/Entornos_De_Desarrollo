@@ -58,3 +58,69 @@ Explica qué criterios pueden seguir a la hora de elegir un lenguaje de programa
 -Reusabilidad
 -Portabilidad
 -Imposición del cliente
+
+
+Ciclo de vida del sofware
+
+1. Define "Ciclo de vida del software".
+	
+	Es el conjunto de actividades o procesos que ocurren desde la necesidad de crear software hasta la explotación de este.
+
+2. Nombra las fases principales del desarrollo de software y explica brevemente que se hace en cada una de ellas.
+
+● ANÁLISIS: Determina y define claramente las necesidades del cliente y se especifica los requisitos que debe cumplir el software a desarrollar.
+● DISEÑO: Descompone y organiza el sistema en elementos componentes que pueden ser desarrollados por separado.
+● CODIFICACIÓN: Escribe el código fuente de cada componente.
+● PRUEBAS: El principal objetivo de las pruebas debe ser conseguir que el programa funcione incorrectamente y que se descubran defectos.
+● MANTENIMIENTO: Durante la explotación del sistema software es necesario realizar cambios ocasionales.
+
+3. Explica brevemente en qué consiste el modelo en cascada cuando hablamos de desarrollo de software.
+
+	Es un modelo bastante rigido el cual el resultado final de una fase es el comienzo de la siguiente, no pudiendo volver a la fase anterior, pasando desde el analisis
+	de el software, pasando por el diseño, la codificación y las pruebas, sin enseñar nada al cliente hasta la ultima fase, creando asi problemas de comunicacion
+	con los clientes
+
+4. Ventajas e inconvenientes del modelo en cascada.
+
+	Es muy rapido, ya que no volvemos a volver a hacer algo anterior, pero tampoco se enseña nada al cliente hasta que se termina, teniendo que repetir todo el proceso
+	si este no esta conforme
+
+5. ¿Qué se entiende por verificación? ¿Y por validación?
+
+	Verificación: Proceso de evaluación del sistema o componentes, que permite determinar si los productos de una determinada fase del desarrollo satisfacen las                     condiciones impuestas en el inicio de la etapa.
+	
+	Validación: Es una evaluación del sistema o de componentes, solo que es en el transcurso o al final del proceso del desarrollo, donde se determina si cumple con lo               especificado.
+
+6. Explica cómo funciona el modelo de desarrollo mediante creación de prototipos.
+    
+    Se crean prototipos de prueba para enseñarsela al usuario o al cliente, para refinar los requisitos del software a desarrollar, y se repiten las veces que sean necesario.
+    
+7. Qué cuatro principios rigen el desarrollo ágil expresados en el Manifiesto Ágil?
+
+	● Individuos e interacciones: sobre procesos y herramientas
+	● Software funcionando: sobre documentación extensiva
+	● Colaboración con el cliente: sobre negociación contractual
+	● Respuesta ante el cambio: sobre seguir un plan
+
+8. ¿Qué es una historia de usuario? Consulta el siguiente enlace:
+        https://es.wikipedia.org/wiki/Historias_de_usuario
+
+	Las historias de usuario son una forma rápida de administrar los requisitos de los usuarios sin tener que elaborar gran cantidad de documentos formales y sin requerir de mucho tiempo para administrarlos. Las historias de usuario permiten responder rápidamente a los requisitos cambiantes.
+	
+9. SCRUM. Explica como funciona Scrum. Consulta los siguientes enlaces:
+        https://proyectosagiles.org/que-es-scrum/
+        https://proyectosagiles.org/como-funciona-scrum/
+	
+	Es un conjunto de buenas prácticas para trabajar colaborativamente, en equipo, y obtener el mejor resultado posible de un proyecto. Estas prácticas se apoyan unas a otras y su selección tiene origen en un estudio de la manera de trabajar de equipos altamente productivos. 
+
+10. SCRUM. Define los siguientes términos:
+        Product backlog: La lista priorizada de objetivos/requisitos representa la visión y expectativas del cliente respecto a los objetivos y entregas del producto o proyecto
+        Sprint backlog: Subconjunto de objetivos/requisitos del Product Backlog seleccionado para la iteración actual y su plan de tareas de desarrollo.
+
+11. SCRUM. En la terminología Scrum qué términos se utilizan como sinónimo de:
+        Jefe de proyecto.
+        Cliente.
+        Equipo de desarrollo.
+
+12. SCRUM. Haz un resumen de los requisitos para poder utilizar Scrum. Consulta el siguiente enlace:
+        https://proyectosagiles.org/requisitos-de-scrum/az
