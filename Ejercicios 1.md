@@ -111,7 +111,7 @@ Ciclo de vida del sofware
         https://proyectosagiles.org/que-es-scrum/
         https://proyectosagiles.org/como-funciona-scrum/
 	
-	Es un conjunto de buenas prácticas para trabajar colaborativamente, en equipo, y obtener el mejor resultado posible de un proyecto. Estas prácticas se apoyan unas a otras y su selección tiene origen en un estudio de la manera de trabajar de equipos altamente productivos. 
+	Es un proyecto que se ejecute en ciclos cortos de una duracion fija, cada ciclo tiene un resultado completo, una incrementacion de producto final que sea facil de entregar con el minimo esfuerzo para el cliente lo solicite. Primero se planea la itineracion, luego se ejecuta y se inspecciona y se coloca la adaptacion necesaria.
 
 10. SCRUM. Define los siguientes términos:
         Product backlog: La lista priorizada de objetivos/requisitos representa la visión y expectativas del cliente respecto a los objetivos y entregas del producto o proyecto
